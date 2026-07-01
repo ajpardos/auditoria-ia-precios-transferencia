@@ -1,0 +1,11 @@
+venv/
+node_modules/
+.env
+*.xlsx
+*.pdf
+*.xml
+mapping_*.json
+datos_reales/
+casos/
+.n8n/
+__pycache__/
