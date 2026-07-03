@@ -9,3 +9,7 @@ datos_reales/
 casos/
 .n8n/
 __pycache__/
+documentos_originales/
+documentos_markdown/
+documentos_anonimizados/
+extraccion/
